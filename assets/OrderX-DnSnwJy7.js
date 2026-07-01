@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Dp58Igxz.js";var t=e();function n(){return(0,t.jsxs)(`div`,{style:{padding:`30px`},children:[(0,t.jsx)(`h1`,{children:`💊 Product Order`}),(0,t.jsx)(`p`,{children:`This is the OrderX page.`})]})}export{n as default};
